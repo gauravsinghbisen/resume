@@ -93,6 +93,14 @@ article > header > span {
     font-size: 100%;
 }
 
+article > header > span a.link {
+    color: #808080;
+}
+
+article > header > span a.link:hover{
+    color: #27A822;
+}
+
 article > header > span a {
     color: inherit;
 }
