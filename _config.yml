@@ -16,19 +16,19 @@ author: Fábio Madeira
 baseurl: /resume/
 title: Gaurav Bisen's Resume
 name: Gaurav Bisen
-email: harsh@bhikadia.com
-email_full: mailto:harsh@bhikadia.com
+email: gaurav.bisen23@gmail.com
+email_full: mailto:gaurav.bisen23@gmail.com
 website: gauravbisen.com
 website_full: https://gauravbisen.com
 github: daadu
 twitter: 4not7
-tel: +91 9158 997751
-tel_full: tel:+919158997751
-google_maps: 'https://www.google.co.in/maps/place/NMIMS+Shirpur+Campus+Boys+Hostel,+Shirpur,+Maharashtra+425405/@21.2862652,74.8396147,17z'
-address: 158, Boys Hostel, Mukesh Patel School of Technology Management & Engineering
-postcode: 425 405
-city: Shirpur
-country: India
+tel: +91 75066 27023
+tel_full: tel:+917506627023
+#google_maps: 'https://www.google.co.in/maps/place/NMIMS+Shirpur+Campus+Boys+Hostel,+Shirpur,+Maharashtra+425405/@21.2862652,74.8396147,17z'
+#address: 158, Boys Hostel, Mukesh Patel School of Technology Management & Engineering
+#postcode: 425 405
+#city: Shirpur
+#country: India
 google_analytics: UA-71475870-2
 
 # needed for travis-ci build
